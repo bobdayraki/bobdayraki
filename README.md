@@ -11,9 +11,9 @@
 
 - ⚡ Fun facts:
   <br/>
-  I am a human
+  -I am a human
   <br/>
-  I dont drink Coffee
+  -I dont drink Coffee
 
 
 
