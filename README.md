@@ -1,19 +1,14 @@
 <h1 align="center">Hey there 👋, I'm Ibrahim Dayraki</h1>
 <h3 align="center">A full-stack software engineer</h3>
 
-- 🛠️ I like building complete webapps from start to finish, using AI tools to make development smarter and faster 🤖.
+- 🛠️ I like building complete web apps from start to finish, using AI tools to make development smarter and faster 🤖.
 
-- 💻 My main tech stack is laravel,Filament, and Tailwind, but i shift my stack depending on the project.
+- 💻 My main tech stack is Laravel, Filament, and Tailwind, but I adapt my stack depending on the project.
 
-- 🚀 I'm building a web development agency with @moedayraki. It's main goal is to make digital online presence for small businesses no matter how small they are.
+- 🚀 I'm building a web development agency with [Moedayraki](https://github.com/moedayraki). Its main goal is to create a digital online presence for small businesses, no matter how small they are.
 
 - 🌱 Currently learning React, Node.js, and Next.js
 
 - ⚡ Fun facts:
-  <br/>
-  -I am a human
-  <br/>
-  -I dont drink Coffee
-
-
-
+  - I am human
+  - I don’t drink coffee
