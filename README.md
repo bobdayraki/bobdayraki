@@ -10,10 +10,8 @@
 - 🌱 Currently learning React, Node.js, and Next.js
 
 - ⚡ Fun facts:
- **I am a human**
- **I dont drink Coffee**
+ **I am a human**.
+ ** I dont drink Coffee**
 
 
-<p align="left">
-</p>
 
