@@ -11,4 +11,4 @@
 
 - ⚡ Fun facts:
   - I am human
-  - I drink coffee once a day
+  - I rarely drink coffee
