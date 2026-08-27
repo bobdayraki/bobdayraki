@@ -5,9 +5,9 @@
 
 - 💻 My main tech stack is Laravel, Filament, and Tailwind, but I adapt my stack depending on the project.
 
-- 🚀 I'm building a web development agency with [Moedayraki](https://github.com/moedayraki). Its main goal is to create a digital online presence for small businesses, no matter how small they are.
+- 🚀 I'm building a software product development studio called StepOne https://stepone.live with [Moedayraki](https://github.com/moedayraki). Its main goal is to create a digital online presence for small businesses, no matter how small they are.
 
-- 🌱 Currently learning React, Node.js, and Next.js
+- 🌱 Currently Architecting software via AI agents (Claude/Codex) with a flexible stack optimized for each unique deliverable
 
 - ⚡ Fun facts:
   - I am human
