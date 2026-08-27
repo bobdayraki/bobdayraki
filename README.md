@@ -7,7 +7,7 @@
 
 - 🚀 I'm building a software product development studio called StepOne https://stepone.live with [Moedayraki](https://github.com/moedayraki). Its main goal is to create software products either solely by StepOne or with collaborations with other founders.
 
-- 🌱 Currently Architecting software via AI agents (Claude/Codex) with a flexible stack optimized for each unique deliverable
+- 🌱 Currently Architecting software via AI agents (Claude/Codex) with a flexible stack optimized for each unique deliverable.
 
 - ⚡ Fun facts:
   - I am human
