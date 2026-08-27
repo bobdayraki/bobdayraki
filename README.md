@@ -5,7 +5,7 @@
 
 - 💻 My main tech stack is Laravel, Filament, and Tailwind, but I adapt my stack depending on the project.
 
-- 🚀 I'm building a software product development studio called StepOne https://stepone.live with [Moedayraki](https://github.com/moedayraki). Its main goal is to create a digital online presence for small businesses, no matter how small they are.
+- 🚀 I'm building a software product development studio called StepOne https://stepone.live with [Moedayraki](https://github.com/moedayraki). Its main goal is to create software products either solely by StepOne or with collaborations with other founders.
 
 - 🌱 Currently Architecting software via AI agents (Claude/Codex) with a flexible stack optimized for each unique deliverable
 
